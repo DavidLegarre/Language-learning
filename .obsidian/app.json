@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Pictures",
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "de-DE",
+    "es-ES"
+  ]
+}

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "269bfb15510b6669",
+        "id": "7b5f58b46d19fec0",
         "type": "tabs",
         "children": [
           {
-            "id": "9b6c8fc8e510cb4a",
+            "id": "41d15982fd68ff79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German/Grammar/Verbs/Tenses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88f9297c3e89567a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German/Grammar/Verbs/Tenses/Perfekt.md",
+                "file": "German/Grammar/Verbs/Tenses/Präsens.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German/Grammar/Verbs/Tenses/Perfekt.md",
+                "file": "German/Grammar/Verbs/Tenses/Präsens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German/Grammar/Verbs/Tenses/Perfekt.md",
+                "file": "German/Grammar/Verbs/Tenses/Präsens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "German/Grammar/Verbs/Tenses/Perfekt.md"
+                "file": "German/Grammar/Verbs/Tenses/Präsens.md"
               }
             }
           },
@@ -179,14 +166,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "88f9297c3e89567a",
+  "active": "41d15982fd68ff79",
   "lastOpenFiles": [
+    "German/Grammar/Verbs/Tenses/1. Präsens.md",
     "German/Grammar/Verbs/Tenses/Präsens.md",
+    "German/Grammar/Verbs/Tenses/2. Perfekt.md",
     "German/Grammar/Verbs/Tenses/Perfekt.md",
+    "German/Grammar/Verbs/Tenses.md",
     "German/Grammar/Verbs/Untitled.md",
     "Context/spacesLastSync.log",
     "Context",
-    "German/Grammar/Verbs/Tenses.md",
     "German/Grammar/Verbs/Tenses",
     "German/Grammar/Verbs",
     "German/Grammar/Declension.md",

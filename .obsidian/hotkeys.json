@@ -1,3 +1,19 @@
 {
-  "workspace:next-tab": []
+  "workspace:next-tab": [],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F6"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F5"
+    }
+  ]
 }

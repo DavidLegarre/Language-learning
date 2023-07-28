@@ -45,7 +45,8 @@
   "expandedSpaces": [
     "/",
     null,
-    "Languages-learning"
+    "Languages-learning",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -75,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690533687802,
+  "spacesAutoBackupLast": 1690535584923,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

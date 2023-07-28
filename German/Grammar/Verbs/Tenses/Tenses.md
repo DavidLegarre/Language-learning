@@ -2,7 +2,7 @@ German has 6 verb tenses (*Zeitformen*):
 
 * [[Präsens]](Present)
 * [[Perfekt]]
-* [[Päteritu]]
+* [[Präteritum]]
 * [[Plusquamperfekt]]
 * [[Futur I]]
 * [[Futur II]]

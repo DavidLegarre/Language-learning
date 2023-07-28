@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "all",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -36,17 +36,23 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Languages-learning": [
+      "/",
       "German",
       "German/Grammar",
       "German/Grammar/Verbs",
       "German/Grammar/Verbs/Tenses"
+    ],
+    "German": [
+      "German/Grammar",
+      "German/Grammar/Verbs",
+      "German/Grammar/Verbs/Participles",
+      "German/Grammar/Verbs/Participles"
     ]
   },
   "expandedSpaces": [
-    "/",
+    "German",
     null,
-    "Languages-learning",
-    null
+    "Languages-learning"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -76,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690535584923,
+  "spacesAutoBackupLast": 1690539201291,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b5f58b46d19fec0",
+        "id": "a0a06105deb8257b",
         "type": "tabs",
         "children": [
           {
-            "id": "41d15982fd68ff79",
+            "id": "fa56352ae6dba3ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German/Grammar/Verbs/Tenses/Präteritum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,17 +60,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "e3b0773876e322d4",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German/Grammar/Verbs/Tenses/Präteritum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "German/Grammar/Verbs/Tenses/Präteritum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "German/Grammar/Verbs/Tenses/Präteritum.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,28 +145,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-importer:Open format converter": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41d15982fd68ff79",
+  "active": "fa56352ae6dba3ba",
   "lastOpenFiles": [
-    "German/Grammar/Verbs/Tenses/Plusquamperfekt.md",
-    "German/Grammar/Verbs/Tenses/Präteritum.md",
-    "German/Grammar/Verbs/Tenses/Perfekt.md",
-    "German/Grammar/Verbs/Tenses/Präsens.md",
-    "German/Grammar/Verbs/haben oder sein.md",
-    "German/Grammar/Verbs/modal verbs.md",
-    "German/Grammar/Verbs/Tenses/Tenses.md",
-    "German/Grammar/Verbs/Participles",
-    "German/Grammar/Verbs/Untitled 1.md",
-    "German/Grammar/Verbs/Tenses/1. Präsens.md",
-    "German/Grammar/Verbs/Tenses/2. Perfekt.md",
-    "German/Grammar/Verbs/Tenses.md",
-    "Context/spacesLastSync.log",
-    "Context",
-    "German/Grammar/Verbs/Tenses",
-    "German/Grammar/Verbs",
     "German/Grammar/Declension.md",
     "German/Grammar/Nouns.md",
     "German/Grammar/Cases.md",
@@ -196,6 +162,7 @@
     "Pictures/Pasted image 20230719181107.png",
     "Pictures/Pasted image 20230713185221.png",
     "Pictures/Pasted image 20230713185205.png",
+    "German/Grammar/Verbs.md",
     "German/Grammar/Prepositions.md",
     "German/Grammar/Cases/Dative 1.md",
     "German/Grammar/Cases",
@@ -205,6 +172,9 @@
     "Pictures",
     "German/Grammar/Adjectives/Untitled",
     "German/Grammar/Adjectives",
-    "German/Grammar/Nouns"
+    "German/Grammar/Nouns",
+    "German/Grammar",
+    "German",
+    "Chinese"
   ]
 }
